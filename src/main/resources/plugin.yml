@@ -1,0 +1,5 @@
+name: TNTDelay
+version: 1.0.0
+main: me.tntdelay.TNTDelay
+api-version: '1.21'
+description: Adds 10 ticks (0.5 seconds) to the fuse of spawned primed TNT.
